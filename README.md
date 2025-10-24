@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @surajbhat0813
-- 👀 I’m interested in nature photography.
-- 🌱 I’m currently learning react JS
 - 📫 How to reach me email Id- bhatsuraj22@gmail.com
 
 <!---
